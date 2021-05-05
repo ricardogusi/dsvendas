@@ -1,4 +1,4 @@
-package com.gusi.dsvendas.dto;
+package com.gusi.dsvendas.dtos;
 
 import java.io.Serializable;
 
