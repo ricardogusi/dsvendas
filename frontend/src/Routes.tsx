@@ -1,6 +1,5 @@
 import Dashboard from 'pages/Dashboard/Dashboard';
 import Home from 'pages/Home/Home';
-import React from 'react'
 import {BrowserRouter, Route, Switch} from 'react-router-dom';
 
 export default function Routes() {
