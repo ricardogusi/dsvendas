@@ -7,7 +7,7 @@ import com.gusi.dsvendas.entities.Seller;
 public class SaleSuccessDTO implements Serializable {
 
 	
-	private static final long serialVersionUID = 1L;
+	private static final long serialVersionUID = 2L;
 	private String sellerName;
 	private Long visited;
 	private Long deals;
@@ -45,12 +45,12 @@ public class SaleSuccessDTO implements Serializable {
 	}
 
 
-	public Long getDeales() {
+	public Long getDeals() {
 		return deals;
 	}
 
 
-	public void setDeales(Long deals) {
+	public void setDeals(Long deals) {
 		this.deals = deals;
 	}
 
