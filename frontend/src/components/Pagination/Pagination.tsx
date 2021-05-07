@@ -1,5 +1,5 @@
 import React from 'react'
-import { SalePage } from 'types/sale'
+import { SalePage } from 'types/Sale'
 
 
 type Props = {
